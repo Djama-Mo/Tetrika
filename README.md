@@ -6,4 +6,5 @@ All tasks
 #3 - To run the script:
 
 $export FLASK_APP=third.py
+
 $flask run
